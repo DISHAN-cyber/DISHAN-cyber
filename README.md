@@ -22,7 +22,14 @@ Based in Nuwara Eliya, Sri Lanka, I am currently working at **GeorgiaTEK Systems
 🔹 **Following:** 0  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shayon5759&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayon5759&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Programming Languages]## 💻 Programming Languages
+
+- Java        ████████████████████░░░░ 60%
+- PHP         ████████░░░░░░░░░░░░░░ 15%
+- HTML        ██████░░░░░░░░░░░░░░░░ 10%
+- CSS         █████░░░░░░░░░░░░░░░░░ 8%
+- JavaScript  █████░░░░░░░░░░░░░░░░░ 7%
+
 
 ## Recent Activity
 
