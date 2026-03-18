@@ -4,7 +4,7 @@ I'm Dishan, a passionate Full-Stack Software Engineer and undergraduate speciali
 
 ## About Me
 
-Based in Nuwara Eliya, Sri Lanka, I am currently working at **GeorgiaTEK Systems Inc.**. With a strong background in software development, I aim to leverage my skills to contribute to impactful projects.
+Based in Nuwara Eliya, Sri Lanka, I am currently working at **Softwareware plus & synexis.**. With a strong background in software development, I aim to leverage my skills to contribute to impactful projects.
 
 ## Skills & Technologies
 
@@ -17,7 +17,7 @@ Based in Nuwara Eliya, Sri Lanka, I am currently working at **GeorgiaTEK Systems
 
 
 ## GitHub Stats
-🔹 **Public Repositories:** 13
+🔹 **Public Repositories:** 20
 🔹 **Followers:** 0  
 🔹 **Following:** 0  
 
