@@ -38,21 +38,7 @@ Hi! I'm a developer passionate about coding. Here's a **colorful showcase** of m
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JS-7%25-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white) |
 
 ---
-
-## 🐍 Python & Other Skills
-
-| Language | Skill |
-|---------|-------|
-| Python   | ![Python](https://img.shields.io/badge/Python-94.4%25-success?style=for-the-badge&logo=python&logoColor=white) |
-| Cython   | ![Cython](https://img.shields.io/badge/Cython-3.8%25-blueviolet?style=for-the-badge) |
-| C        | ![C](https://img.shields.io/badge/C-0.9%25-lightgrey?style=for-the-badge&logo=c&logoColor=white) |
-| C++      | ![C++](https://img.shields.io/badge/C++-0.4%25-lightgrey?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| Fortran  | ![Fortran](https://img.shields.io/badge/Fortran-0.0%25-red?style=for-the-badge) |
-
-
 ---
-
-
 ✨ Let's build amazing projects together! 🚀
 ---
 
