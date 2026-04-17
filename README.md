@@ -1,62 +1,24 @@
-
+## About Me
 
 I'm Dishan, a passionate Full-Stack Software Engineer and undergraduate specializing in Java. I love using technology to create innovative solutions for everyday challenges.
 
-## About Me
-
 Based in Nuwara Eliya, Sri Lanka, I am currently working at **Softwareware plus & synexis.**. With a strong background in software development, I aim to leverage my skills to contribute to impactful projects.
 
-## Skills & Technologies
+## ⚡ Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,docker,react,mysql,postgres,nodejs,express,spring,flutter,jenkins,graphql,aws,githubactions&perline=8)](https://skillicons.dev)
-## ⚡ Tech Stack
-
-### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,dart" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,dart,spring,nodejs,express,react,angular,tailwind,bootstrap,mysql,mongodb,postgres,docker,aws,vercel,githubactions,flutter,git,postman" />
 </p>
 
-### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-  <img src="https://img.shields.io/badge/Spring%20Security-OAuth2%20%7C%20JWT-brightgreen?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-JWT%20%7C%20OAuth2-brightgreen?style=for-the-badge&logo=springsecurity"/>
+  <img src="https://img.shields.io/badge/React%20Native-Expo-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/OpenAI-Whisper-black?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Pandas-Data-blue?style=for-the-badge&logo=pandas"/>
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap" />
-  <img src="https://img.shields.io/badge/React%20Native-Expo-blue?style=for-the-badge&logo=react&logoColor=white"/>
-</p>
 
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/OpenAI-Whisper-black?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions" />
-  <img src="https://img.shields.io/badge/Heroku-Deployment-purple?style=for-the-badge&logo=heroku"/>
-</p>
-
-### 🧪 Testing & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github" />
-  <img src="https://img.shields.io/badge/Jira-Project%20Management-blue?style=for-the-badge&logo=jira"/>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
 
 ## Top Projects
 
