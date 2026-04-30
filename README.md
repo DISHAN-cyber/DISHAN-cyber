@@ -45,11 +45,11 @@ Hi! I'm a developer passionate about coding. Here's a **colorful showcase** of m
 | Python      | ![Python](https://img.shields.io/badge/Python-20%25-blue?style=for-the-badge&logo=python&logoColor=white) |
 | TypeScript  | ![TypeScript](https://img.shields.io/badge/TypeScript-15%25-blue?style=for-the-badge&logo=typescript&logoColor=white) |
 | .NET        | ![.NET](https://img.shields.io/badge/.NET-10%25-purple?style=for-the-badge&logo=dotnet&logoColor=white) |
-| PHP         | ![PHP](https://img.shields.io/badge/PHP-15%25-blue?style=for-the-badge&logo=php&logoColor=white) | 
+| PHP         | ![PHP](https://img.shields.io/badge/PHP-15%25-blue?style=for-the-badge&logo=php&logoColor=white) |
 | HTML        | ![HTML](https://img.shields.io/badge/HTML-10%25-orange?style=for-the-badge&logo=html5&logoColor=white) |
 | CSS         | ![CSS](https://img.shields.io/badge/CSS-8%25-yellow?style=for-the-badge&logo=css3&logoColor=white) |
 | JavaScript  | ![JavaScript](https://img.shields.io/badge/JS-7%25-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white) |
-
+| C           | ![C](https://img.shields.io/badge/C-70%25-blue?style=for-the-badge&logo=c&logoColor=white) |
 ---
 ---
 ✨ Let's build amazing projects together! 🚀
