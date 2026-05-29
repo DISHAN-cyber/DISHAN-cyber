@@ -62,7 +62,6 @@ Hi! I'm a developer passionate about coding. Here's a **colorful showcase** of m
 ## Recent Activity
 
 - Pushed updates to [Software Application Development](https://github.com/Shayon5759/Software-Application-Development) on June 6, 2025.  
-- Created a new repository [Shayon5759](https://github.com/Shayon5759/Shayon5759) on June 3, 2025.  
 - Pushed updates to [Software Application Development](https://github.com/Shayon5759/Software-Application-Development) on May 13, 2025.
 
 ## Latest Blog Posts
