@@ -273,23 +273,4 @@
 <rect x="512" y="490" width="610" height="1" fill="rgba(255,255,255,0.08)"/>
 
 <!-- social icons -->
-<g font-family="Menlo, Consolas, monospace" font-size="13" font-weight="600" opacity="0">
-  <animate attributeName="opacity" to="1" begin="3.8s" dur="0.5s" fill="freeze"/>
 
-  <g transform="translate(667,532)">
-    <circle r="21" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#softGlow)">
-      <animate attributeName="r" values="21;22.5;21" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <text text-anchor="middle" dy="5" fill="#F8FAFC" font-size="12">GH</text>
-  </g>
-  <g transform="translate(767,532)">
-    <circle r="21" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#softGlow)">
-      <animate attributeName="r" values="21;22.5;21" dur="3s" begin="0.4s" repeatCount="indefinite"/>
-    </circle>
-    <text text-anchor="middle" dy="5" fill="#F8FAFC" font-size="12">in</text>
-  </g>
-  <g transform="translate(867,532)">
-    <circle r="21" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#softGlow)">
-      <animate attributeName="r" values="21;22.5;21" dur="3s" begin="0.8s" repeatCount="indefinite"/>
-    </circle>
-    <text text-anchor="middle" 
