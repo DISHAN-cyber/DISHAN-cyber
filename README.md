@@ -292,15 +292,4 @@
     <circle r="21" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#softGlow)">
       <animate attributeName="r" values="21;22.5;21" dur="3s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
-    <text text-anchor="middle" dy="5" fill="#F8FAFC" font-size="12">X</text>
-  </g>
-  <g transform="translate(967,532)">
-    <circle r="21" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#softGlow)">
-      <animate attributeName="r" values="21;22.5;21" dur="3s" begin="1.2s" repeatCount="indefinite"/>
-    </circle>
-    <text text-anchor="middle" dy="5" fill="#F8FAFC" font-size="14">🌐</text>
-  </g>
-</g>
-
-</g>
-</svg>
+    <text text-anchor="middle" 
